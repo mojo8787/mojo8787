@@ -22,6 +22,4 @@
 - **Role:** First Author
 - **Summary:** Comprehensive review on the antimicrobial applications of Titanium dioxide nanoparticles, contributing to the field of nanomedicine and infectious diseases.
 
-
-
 📫 Feel free to reach out to me at motasem.youniss@gmail.com for collaboration, discussion, or any exciting opportunities.

@@ -8,4 +8,20 @@
 
 🚀 My goal is to leverage my diverse skill set in a data science role, where I can make impactful contributions to research and technology. I'm excited about the possibilities that lie ahead in blending science, data, and technology to uncover new insights and solutions.
 
+# Publications
+
+## Synthesis and characterization of TiO2 nanoparticles combined with geraniol and their synergistic antibacterial activity
+- **Journal:** BMC Microbiology
+- **Published:** August 2, 2023
+- **Role:** Lead Author
+- **Summary:** Study focusing on the antibacterial efficacy of Titanium dioxide nanoparticles modified with geraniol, with applications in biomedical and environmental science sectors.
+
+## Titanium dioxide nanoparticles: Recent progress in antimicrobial applications
+- **Journal:** WIREs Nanomedicine and Nanobiotechnology
+- **Published:** October 7, 2022
+- **Role:** First Author
+- **Summary:** Comprehensive review on the antimicrobial applications of Titanium dioxide nanoparticles, contributing to the field of nanomedicine and infectious diseases.
+
+
+
 📫 Feel free to reach out to me at motasem.youniss@gmail.com for collaboration, discussion, or any exciting opportunities.

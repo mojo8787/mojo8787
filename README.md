@@ -1,12 +1,20 @@
-👋 Hi, I'm Motasem! I'm a PhD student in Biological Chemistry, with a focus on microbiology and data analytics. I'm also enhancing my skills through learning with OpenAI.
+Motasem Younis: Microbiology PhD & Data Science Enthusiast
 
-🔬 I've published in nanomedicine and infectious diseases, and am now exploring computational biology for immunological advancements.
+🔬 PhD in Microbiology from Brno, transitioning from traditional biology to data-driven science.
 
-💻 Beyond the lab, I explore data science, using Python and R for data analysis and visualization, with a keen interest in bioinformatics.
+📊 Proficient in Python, R, and machine learning, with a focus on bioinformatics applications.
 
-🌐 In my free time, I enjoy movies, diverse music genres, and have interests in financial markets and aviation.
+👨‍💻 Published researcher in nanomedicine and infectious diseases, now exploring the frontiers of computational biology.
 
-🚀 I aim to apply my diverse skills in data science, contributing to research and technology and blending science, data, and tech for new insights.
+🌟 Embraced AI and ChatGPT post-Dec 2022, significantly enhancing data analysis skills and confidence.
+
+🔍 Passionate about integrating science and technology to uncover new insights in biological data.
+
+📈 Active contributor to projects ranging from basic HTML to complex bioinformatics on GitHub.
+
+💡 Seeking collaborative opportunities at the intersection of microbiology, data science, and AI.
+
+📧 Reach me at [email address] for discussions and potential collaborations.
 
 # Publications
 

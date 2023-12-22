@@ -1,4 +1,4 @@
-👋 Hi! I'm Motasem Younis, a PhD student in Biological Chemistry at Mendel University. My focus is on microbiology, particularly nanoparticle studies and antimicrobial research. I blend biochemistry with data analytics, utilizing skills in molecular biology, Python, and machine learning.
+👋 Hi, I'm Motasem! I'm a PhD student in Biological Chemistry, with a focus on microbiology and data analytics. I'm also enhancing my skills through learning with OpenAI.
 
 🔬 I've published in nanomedicine and infectious diseases, and am now exploring computational biology for immunological advancements.
 

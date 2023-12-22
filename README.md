@@ -2,7 +2,7 @@ Motasem Younis: Microbiology PhD & Data Science Enthusiast
 
 🔬 PhD in Microbiology from Brno, transitioning from traditional biology to data-driven science.
 
-📊 Proficient in Python, R, and machine learning, with a focus on bioinformatics applications.
+📊 Proficient in Python, R, and AI, with a focus on bioinformatics applications.
 
 👨‍💻 Published researcher in nanomedicine and infectious diseases, now exploring the frontiers of computational biology.
 

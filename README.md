@@ -1,7 +1,4 @@
 
-ChatGPT
-Certainly, here's a more concise version of your profile that still captures your expertise and interests:
-
 Motasem Younis: PhD in Microbiology & Data Science Enthusiast
 
 🔬 PhD in Microbiology, Brno. Transitioned from pure biology to data-driven science, focusing on bioinformatics.

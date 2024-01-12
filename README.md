@@ -13,7 +13,7 @@ Motasem Younis: PhD in Microbiology & Data Science Enthusiast
 
 💡 Seeking collaborations at the intersection of microbiology, data science, and AI.
 
-📧 Contact: [motasem.youniss@gmail.com] for discussions and opportunities.
+📧 Contact: motasem.youniss@gmail.com for discussions and opportunities.
 
 Key Publications
 
